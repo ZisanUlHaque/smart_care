@@ -33,6 +33,7 @@ CSRF_TRUSTED_ORIGINS = [
     "https://smart-care-rbkl.onrender.com"
 ]
 
+ALLOWED_HOSTS = ["smart-care-rbkl.onrender.com", "127.0.0.1", "localhost"]
 
 # Application definition
 
